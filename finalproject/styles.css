@@ -1,0 +1,27 @@
+body{
+	margin-bottom: 80px;
+}
+.page-header {
+	margin-top: 0;
+}
+
+.panel-body {
+	padding-top: 0;
+}
+
+.featuredImg {
+	margin-bottom: 15px;
+}
+
+.jumbotron {
+  background-image:url("https://qph.fs.quoracdn.net/main-qimg-b1a4d9b99cf7163b6292ebd0694a95c9");
+  height:300px;
+  background-repeat: no-repeat;
+  background-size: auto 100%;
+  border-bottom:1px solid #ff6a00
+}
+.jumbotron .container {
+  position:relative;
+  top:50px;
+}
+
